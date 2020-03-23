@@ -1,6 +1,8 @@
 This is a port of Microsoft's surfaces experiment, designed to run on Oculus Quest.
 Check the [releases](https://github.com/provencher/MR_Surfaces_Oculus/releases) page for the latest apk to download.
 
+NOTE: This was merged into the official [repo](https://github.com/microsoft/MRDL_Unity_Surfaces/tree/oculus).
+
 # Surfaces
 Surfaces is an open-source sample app from Microsoft's Mixed Reality Design Labs. It demonstrates how to use **[Mixed Reality Toolkit(MRTK)](https://github.com/Microsoft/MixedRealityToolkit-Unity)**'s input system and building blocks to create an app experience for HoloLens 2, and now Oculus Quest. In this project, you can find the examples of:
 - Use MRTK's **[Input System](https://microsoft.github.io/MixedRealityToolkit-Unity/Documentation/Input/Overview.html)**, specifically hand / joint tracking.
